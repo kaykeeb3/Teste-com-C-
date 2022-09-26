@@ -1,6 +1,6 @@
 using System;
 
-namespace Início com C# 
+namespace Inicio com C# 
 {
   class Program 
   {
